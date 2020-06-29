@@ -12,15 +12,15 @@ new/
 
 |——mfrc522(RFID辅助函数)
 
-​			|——MFRC522.py
+    |——MFRC522.py
 
-​			|——SimpleMFRC522.py
+    |——SimpleMFRC522.py
 
 |——tem(测温函数)
 
-​			|——HDC1080.py
+    |——HDC1080.py
 
-​			|——testHDC1080.py
+    |——testHDC1080.py
 
 |——cam.py（摄像头自启动脚本）
 
